@@ -35,7 +35,7 @@
 <p>Desde então venho estudando Desenvolvimento Web na Kenzie Academy e buscando mais conhecimentos de outras fontes.
 </p>
 <p>Rumo ao Objetivo de me tornar um Fullstack Developer!</p>
-<cite>"Pensar pequeno e pensar grande exigem de você o mesmo esforço. Eu escolho pensar grande!"</cite>
+<i>"Pensar pequeno e pensar grande exigem de você o mesmo esforço. Eu escolho pensar grande!"</i>
 <br>
 <br>
 
