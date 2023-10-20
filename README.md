@@ -13,7 +13,7 @@
 
 
 
-<h3>Tecnologias e ferramentas que estou utilizando atualmente no <span style="'color': 'blue'">Desenvolvimento FrontEnd</span></h3> 
+<h3>Tecnologias: Desenvolvimento FrontEnd</h3> 
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -31,7 +31,7 @@
 <hr/>
 
 
-<h3>Tecnologias e ferramentas que estou utilizando atualmente no desenvolvimento BackEnd</h3> 
+<h3>Tecnologias: Desenvolvimento BackEnd</h3> 
 
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL">
@@ -43,7 +43,7 @@
 <hr/>
 
 
-<h3>Tecnologias e ferramentas que estou utilizando atualmente no desenvolvimento Mobile
+<h3>Tecnologias: Desenvolvimento Mobile
 </h3> 
 
 <div>
@@ -54,7 +54,7 @@
 <br/>
 <hr/>
 
-<h3>Tecnologias e ferramentas que estou utilizando atualmente no Design UI </h3> 
+<h3>Tecnologias/Ferramentas: Design UI </h3> 
 
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
