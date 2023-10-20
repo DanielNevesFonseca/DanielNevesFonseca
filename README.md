@@ -13,7 +13,7 @@
 
 
 
-<h3>Tecnologias e ferramentas que estou utilizando atualmente no desenvolvimento FrontEnd</h3> 
+<h3>Tecnologias e ferramentas que estou utilizando atualmente no <strong>desenvolvimento FrontEnd</strong>strong></h3> 
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
