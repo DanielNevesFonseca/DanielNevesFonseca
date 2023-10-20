@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA">
 </div>
 <br/>
-<br/>
 <hr/>
 
 
@@ -39,7 +38,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS">
 </div>
 <br/>
-<br/>
 <hr/>
 
 
@@ -50,7 +48,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
 </div>
 
-<br/>
 <br/>
 <hr/>
 
