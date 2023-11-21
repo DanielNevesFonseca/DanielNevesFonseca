@@ -37,13 +37,13 @@
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-
-
 </div>
 <br/>
+<p><i>Vários projetos estão privados e os commits não aparecem nas estatísticas.</i></p>
+
 <hr/>
 <br>
-<p>No início de 2023 eu tomei a decisão de mergulhar no mundo da tecnologia e largar meu emprego de vendedor.</p>
+<p>No início de 2023 eu tomei a decisão de mergulhar no mundo da tecnologia e fazer minha transição de carreira.</p>
 <p>Desde então venho estudando Desenvolvimento Web na Kenzie Academy e buscando mais conhecimentos de outras fontes.
 </p>
 <p>Rumo ao Objetivo de me tornar um Fullstack Developer!</p>
