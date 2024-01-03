@@ -1,7 +1,8 @@
 # Desenvolvedor Web Full Stack 👨🏻‍💻
 
 ## Bem-vindo ao meu GitHub! 🚀
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnevesfonseca&layout=compact&theme=dracula)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnevesfonseca&theme=dracula)
 
 Olá! Eu sou Daniel, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Este repositório é o meu espaço para compartilhar projetos e códigos relacionados ao meu trabalho com diversas tecnologias.
 
