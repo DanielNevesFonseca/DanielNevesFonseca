@@ -5,7 +5,7 @@
 
 
 ### Sobre mim
-Sou desenvolvedor de software e Monitor de Ensino Full Stack na [@kenzieacademybrasil](https://www.kenzie.com.br/).
+Sou desenvolvedor de software na RSP Blue.
 
 ### Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
