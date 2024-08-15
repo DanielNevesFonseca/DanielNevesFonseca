@@ -1,11 +1,11 @@
-# Olá, Eu me chamo Daniel >.<
+# Olá, Eu me chamo Daniel! 👨🏻‍💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielnevesfonseca)](https://github.com/danielnevesfonseca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnevesfonseca/)](https://www.linkedin.com/in/danielnevesfonseca/)
 
 
 ### Sobre mim
-Sou desenvolvedor de software na RSP Blue.
+Desenvolvedor de Software. Crio Coisas </>
 
 ### Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
