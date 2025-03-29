@@ -73,19 +73,19 @@ I am finishing my degree in Systems Analysis and Development, which I decided to
   <tr>
     <td width="55%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&theme=algolia&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br" alt="" align="center" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&theme=algolia&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=en-us"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=en-us" alt="" align="center" width="100%" />
       </picture>
       <br></br>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielnevesfonseca&theme=algolia&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielnevesfonseca&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielnevesfonseca&theme=algolia&background=ffffff00&hide_border=true&no-frame=true&locale=en-us" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielnevesfonseca&background=ffffff00&hide_border=true&no-frame=true&locale=en-us" alt="" align="center" width="100%" />
       </picture>
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=danielnevesfonseca&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=danielnevesfonseca&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=danielnevesfonseca&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=en-us" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=danielnevesfonseca&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=en-us" alt="" align="center" width="100%"/>
       </picture>
     </td>
   </tr>
