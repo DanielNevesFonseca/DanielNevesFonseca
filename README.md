@@ -5,16 +5,7 @@
 
 
 ### About Me
-I have always sought to find solutions to my problems instead of complaining and lamenting about them. I started working at a very young age, around 13 or 14 years old, to be able to buy my own things and invest in my education.
-
-I have worked in sectors such as commerce and sales until I found myself in the world of software development.
-
-Once I started writing my first lines of code, I discovered a world of possibilities I hadn't imagined before, which sparked a great sense of affection and respect for the profession. It allows me to learn new things every day and continuously challenges me.
-
-Currently, I work as a Full Stack Software Engineer, adapting to whatever is needed. Whether it’s designing in Figma, managing production databases, developing front-end interfaces, integrating with the back-end, creating new features, or fixing bugs in the back-end, I’m the right professional for the job.
-
-On a daily basis, I work with various technologies depending on the stacks of the projects I’m involved in. Some of them include .NET, C#, SQL, Entity Framework, JavaScript, HTML, CSS, React.js, Next.js, Docker, Postgres, WordPress, among others.
-I am finishing my degree in Systems Analysis and Development, which I decided to pursue after starting to work in the field, to deepen my conceptual foundation of what I practice daily.
+I help companies to solve their problems throught coding.
 
 ### Front End:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
